@@ -1,4 +1,4 @@
-# Project Description
+# Course Searching Tool 
 
 
 This project was the final project for the course 90-819 "Intermediate Programming with Python". 
